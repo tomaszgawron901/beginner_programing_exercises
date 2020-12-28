@@ -1,0 +1,10 @@
+Lekcja 1
+Data: 28-12-2020
+Temat: Instalacja i konfiguracja środowoska programistycznego - Visual Studio, GitHub
+
+1. Pobierz instalator Visual Studio Community Edition - https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16
+2. Zawołaj mnie przed rozpoczęciem instalacji, pokażę ci jakie skłądniki zainstalować
+3. Podczas instalacji załóż konto na github.com
+4. Jak założysz konto to mnie znowu zawołaj, pomogę ci spiąć github z visual studio
+
+To be continued
