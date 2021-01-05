@@ -39,7 +39,7 @@ Różnica jest taka że WriteLine dodaje na końcu stringa znak przejścia do na
 
 **WAŻNE! Pobierając znaki za pomocą Console.ReadLine() pobierasz STRING.**
 Czyli jeżeli chcesz pobrać np liczbę całkowitą to musisz pobrany ciąg znaków(**string**) zamienić na **int** za pomocą funkcji *Parse()* tak jak poniżej
-![i7](https://github.com/tomaszgawron901/beginner_programing_exercises/blob/master/Lekcja%202/asstes/i7.png)
+![i7](/asstes/i7.png)
 
 # Literały w C#
 Jeżeli chcesz przypisać wartość jakiejś zmiennej numerycznej musić wartość zakończyć literałem.
