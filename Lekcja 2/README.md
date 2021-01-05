@@ -1,9 +1,11 @@
 Hi, I am Tomek
 
-# Na tej lekcji :
-* Utworzysz nowy projekt C#
-* Dowiesz się jak pobierć znaki z klawiatury i wypisywać informacje na konsolę
-* 
+# Na tej lekcji dowiesz się:
+* Jak utworzyć nowy projekt C#
+* Jak pobierć znaki z klawiatury i wypisywać informacje na konsolę
+* Co to literały i po co są potrzebne.
+* Co to var
+* Jak zadeklarować tablicę zmiennych
 
 # Tworzenie nowego projektu
 ok, zaczniemy od stworzenia nowego projektu.
@@ -35,11 +37,23 @@ Jak sama nazwa wskazuje pobiera ci znaki aż do napotkania znaku końca lini (cz
 Do wypisywania na konsoli używasz *Console.WriteLine()* lub *Console.Write()*.
 Różnica jest taka że WriteLine dodaje na końcu stringa znak przejścia do następnej lini, a Write nie.
 *Jak ci się numdzi to możesz poczytać co robi Console.Read(), Console.ReadKey*
-![i6](/Lekcja%202/asstes/i6.png)
+```C#
+int integerValue = 10;
+string stringValue = "Ala ma kota";
+
+Console.WriteLine(integerValue); //  Wypisze "10"
+Console.WriteLine("Mam "+integerValue+" lat."); // Wypisze "Mam 10 lat."
+Console.WriteLine(stringValue); // Wypisze "Ala ma kota"
+```
 
 **WAŻNE! Pobierając znaki za pomocą Console.ReadLine() pobierasz STRING.**
 Czyli jeżeli chcesz pobrać np liczbę całkowitą to musisz pobrany ciąg znaków(**string**) zamienić na **int** za pomocą funkcji *Parse()* tak jak poniżej
-![i7](/Lekcja%202/asstes/i7.png)
+```C#
+string line = Console.ReadLine();
+int integerValue = int.Parse(line);
+integerValue += 10;
+Console.WriteLine(integerValue);
+```
 
 # Literały w C#
 Jeżeli chcesz przypisać wartość jakiejś zmiennej numerycznej musić wartość zakończyć literałem.
@@ -71,6 +85,15 @@ var ui = 1U;
 var ul = 1UL;
 var l  = 1L;
 ```
+
+# Tablice
+Tablice deklarujesz w taki sposób
+```C#
+int n = 10;
+int[] table1 = new int[n];
+float[] table2 = new float[10];
+```
+
 # Proste zadanko
 Pewna *n* liczba krasnoludów codziennie schodzi do kopalni aby wydobywać złoto.
 Krasnoludy mają między sobą ustaloną pewną regułę.
