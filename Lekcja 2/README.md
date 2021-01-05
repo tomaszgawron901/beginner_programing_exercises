@@ -41,9 +41,9 @@ Różnica jest taka że WriteLine dodaje na końcu stringa znak przejścia do na
 int integerValue = 10;
 string stringValue = "Ala ma kota";
 
-Console.WriteLine(integerValue); //  Wypisze "10"
-Console.WriteLine("Mam "+integerValue+" lat."); // Wypisze "Mam 10 lat."
-Console.WriteLine(stringValue); // Wypisze "Ala ma kota"
+Console.WriteLine(integerValue);                 //  Wypisze "10"
+Console.WriteLine("Mam "+integerValue+" lat.");  // Wypisze "Mam 10 lat."
+Console.WriteLine(stringValue);                  // Wypisze "Ala ma kota"
 ```
 
 **WAŻNE! Pobierając znaki za pomocą Console.ReadLine() pobierasz STRING.**
