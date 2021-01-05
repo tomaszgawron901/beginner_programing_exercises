@@ -9,21 +9,21 @@ Hi, I am Tomek
 ok, zaczniemy od stworzenia nowego projektu.
 
 Odpal visual studio i wybierz "Create a new project"
-![i1](https://github.com/tomaszgawron901/beginner_programing_exercises/blob/master/Lekcja%202/asstes/i1.png)
+![i1](/Lekcja%202/asstes/i1.png)
 
 W listach zaznacz "C#", "All platforms", "Console". I wybierz "Console App(.NET Core)"
-![i2](https://github.com/tomaszgawron901/beginner_programing_exercises/blob/master/Lekcja%202/asstes/i2.png)
+![i2](/Lekcja%202/asstes/i2.png)
 
 Nazwij projekt jak tam chcesz i wybierz lokalizację która ci odpowiada
-![i3](https://github.com/tomaszgawron901/beginner_programing_exercises/blob/master/Lekcja%202/asstes/i3.png)
+![i3](/Lekcja%202/asstes/i3.png)
 
 # Zapoznanie się z programem startowym
 
 Tu piszesz swój kod.
-![i4](https://github.com/tomaszgawron901/beginner_programing_exercises/blob/master/Lekcja%202/asstes/i4.png)
+![i4](/Lekcja%202/asstes/i4.png)
 
 Tu jednym przyciskiem kompilujesz i uruchamiasz swój program.
-![i5](https://github.com/tomaszgawron901/beginner_programing_exercises/blob/master/Lekcja%202/asstes/i5.png)
+![i5](/Lekcja%202/asstes/i5.png)
 
 Na początek tyle ci wystarczy
 
@@ -35,11 +35,11 @@ Jak sama nazwa wskazuje pobiera ci znaki aż do napotkania znaku końca lini (cz
 Do wypisywania na konsoli używasz *Console.WriteLine()* lub *Console.Write()*.
 Różnica jest taka że WriteLine dodaje na końcu stringa znak przejścia do następnej lini, a Write nie.
 *Jak ci się numdzi to możesz poczytać co robi Console.Read(), Console.ReadKey*
-![i6](https://github.com/tomaszgawron901/beginner_programing_exercises/blob/master/Lekcja%202/asstes/i6.png)
+![i6](/Lekcja%202/asstes/i6.png)
 
 **WAŻNE! Pobierając znaki za pomocą Console.ReadLine() pobierasz STRING.**
 Czyli jeżeli chcesz pobrać np liczbę całkowitą to musisz pobrany ciąg znaków(**string**) zamienić na **int** za pomocą funkcji *Parse()* tak jak poniżej
-![i7](/asstes/i7.png)
+![i7](/Lekcja%202/asstes/i7.png)
 
 # Literały w C#
 Jeżeli chcesz przypisać wartość jakiejś zmiennej numerycznej musić wartość zakończyć literałem.
