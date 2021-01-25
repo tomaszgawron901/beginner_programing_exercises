@@ -1,5 +1,5 @@
 # Zadanie 1.
-Napisz program który znadzie największą z 3 wartości.
+Napisz program który odczyta i znadzie największą z 3 wartości.
 
 Przykładowe dane:
 ```
