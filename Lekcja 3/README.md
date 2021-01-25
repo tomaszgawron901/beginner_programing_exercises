@@ -20,12 +20,12 @@ Przykładowe dane:
 
 # Zadanie 3.
 Napisz program który odczyta temperaturę w stopniach celsjusza i wypisze dla niej odpowiedni opis.
-Temp <= 0 zamarzająca woda
-Temp (0, 10) bardzo zimna woda
-Temp <10, 20) letnia woda
-Temp <20, 40) ciepła woda
-Temp <40, 100) gorąca woda
-Temp >=100 wrząca woda
+* Temp <= 0 zamarzająca woda
+* Temp (0, 10) bardzo zimna woda
+* Temp <10, 20) letnia woda
+* Temp <20, 40) ciepła woda
+* Temp <40, 100) gorąca woda
+* Temp >=100 wrząca woda
 
 Przykładowe dane:
 ```
