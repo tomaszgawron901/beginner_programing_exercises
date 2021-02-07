@@ -11,8 +11,7 @@ Utwórz tablicę int n-elementową. Wypełnij ją kolejnymi silniami liczb natur
 Wartość elemntu na pozycji 0 = 1.
 Wartość elemntu na pozycji 1 = 1.
 
-pl.wikipedia.org/wiki/Silnia - Atrykuł o silni na wikipedii!
-[Wikipedia](https://pl.wikipedia.org/wiki/Silnia)
+[pl.wikipedia.org/wiki/Silnia](https://pl.wikipedia.org/wiki/Silnia) - Atrykuł o silni na wikipedii!
 
 Przykładowe dane:
 ```
@@ -25,9 +24,7 @@ Wartość elemntu na pozycji 0 = 0.
 Wartość elemntu na pozycji 1 = 1.
 Następne wartości są sumą dwóch poprzednich tj. dla dla pozycji 2 wartość = 0 + 1 = 1.
 
-pl.wikipedia.org/wiki/Ci%C4%85g_Fibonacciego - Atrykuł o ciągu fibonacciego na wikipedii!
-[Wikipedia](https://pl.wikipedia.org/wiki/Ci%C4%85g_Fibonacciego)
-
+[pl.wikipedia.org/wiki/Ci%C4%85g_Fibonacciego](https://pl.wikipedia.org/wiki/Ci%C4%85g_Fibonacciego) - Atrykuł o ciągu fibonacciego na wikipedii!
 
 Przykładowe dane:
 ```
