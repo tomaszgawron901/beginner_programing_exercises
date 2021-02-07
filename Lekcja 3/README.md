@@ -1,5 +1,5 @@
 # Zadanie 1.
-Napisz program który znadzie największą z 3 wartości.
+Napisz program który odczyta i znadzie największą z 3 wartości.
 
 Przykładowe dane:
 ```
@@ -10,6 +10,7 @@ Przykładowe dane:
 
 # Zadanie 2.
 Napisz program pobierający z klawiatury wartości 3 kątów. Sprawdź czy trójkąt zbudowany z podanych kątów istnieje, i jeśli tak to czy jest ostrokątny, prostokątny czy rozwartokątny.
+
 Przykładowe dane:
 ```
 50 50 80  => TAK ostrokątny
@@ -21,11 +22,17 @@ Przykładowe dane:
 # Zadanie 3.
 Napisz program który odczyta temperaturę w stopniach celsjusza i wypisze dla niej odpowiedni opis.
 Temp <= 0 zamarzająca woda
+
 Temp (0, 10) bardzo zimna woda
+
 Temp <10, 20) letnia woda
+
 Temp <20, 40) ciepła woda
+
 Temp <40, 100) gorąca woda
+
 Temp >=100 wrząca woda
+
 
 Przykładowe dane:
 ```
