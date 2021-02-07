@@ -7,9 +7,9 @@ Przykładowe dane:
 ```
 
 # Zadanie 2.
-Utwórz tablicę int n-elementową. Wypełnij ją kolejnymi silniami liczb naturalnych.
-Wartość elemntu na pozycji 0 = 1.
-Wartość elemntu na pozycji 1 = 1.
+Utwórz tablicę int n-elementową. Wypełnij ją kolejnymi silniami liczb naturalnych.<br/>
+Wartość elemntu na pozycji 0 = 1.<br/>
+Wartość elemntu na pozycji 1 = 1.<br/>
 
 [pl.wikipedia.org/wiki/Silnia](https://pl.wikipedia.org/wiki/Silnia) - Atrykuł o silni na wikipedii!
 
@@ -19,10 +19,10 @@ Przykładowe dane:
 ```
 
 # Zadanie 3.
-Utwórz tablicę int n-elementową. Wypełnij ją kolejnymi liczbami fibonacciego.
-Wartość elemntu na pozycji 0 = 0.
-Wartość elemntu na pozycji 1 = 1.
-Następne wartości są sumą dwóch poprzednich tj. dla dla pozycji 2 wartość = 0 + 1 = 1.
+Utwórz tablicę int n-elementową. Wypełnij ją kolejnymi liczbami fibonacciego.<br/>
+Wartość elemntu na pozycji 0 = 0.<br/>
+Wartość elemntu na pozycji 1 = 1.<br/>
+Następne wartości są sumą dwóch poprzednich tj. dla dla pozycji 2 wartość = 0 + 1 = 1.<br/>
 
 [pl.wikipedia.org/wiki/Ci%C4%85g_Fibonacciego](https://pl.wikipedia.org/wiki/Ci%C4%85g_Fibonacciego) - Atrykuł o ciągu fibonacciego na wikipedii!
 
