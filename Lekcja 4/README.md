@@ -22,7 +22,7 @@ Przykładowe dane:
 Utwórz tablicę int n-elementową. Wypełnij ją kolejnymi liczbami fibonacciego.<br/>
 Wartość elemntu na pozycji 0 = 0.<br/>
 Wartość elemntu na pozycji 1 = 1.<br/>
-Następne wartości są sumą dwóch poprzednich tj. dla dla pozycji 2 wartość = 0 + 1 = 1.<br/>
+Następne wartości są sumą dwóch poprzednich tj. dla pozycji 2 wartość = 0 + 1 = 1.<br/>
 
 [pl.wikipedia.org/wiki/Ci%C4%85g_Fibonacciego](https://pl.wikipedia.org/wiki/Ci%C4%85g_Fibonacciego) - Atrykuł o ciągu fibonacciego na wikipedii!
 
